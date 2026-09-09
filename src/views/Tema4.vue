@@ -147,7 +147,7 @@
                   .col-12
                     figure.mb-4
                       img(src='@/assets/curso/temas/t4/img11.jpg', alt="" ).m-auto
-                  h4.text-center Canales #[i Off line] (tradicionales)
+                  h4.text-center Canales #[i Offline] (tradicionales)
                   .caja-3_p
                     p.mb-0.text-center Medios tradicionales como cartelería, radio, prensa y televisión. Siguen siendo efectivos para públicos específicos y para generar un impacto local.
             .col-xl-4.col-md-9(data-aos="fade-left")
@@ -156,7 +156,7 @@
                   .col-12
                     figure.mb-4
                       img(src='@/assets/curso/temas/t4/img12.jpg', alt="" ).m-auto
-                  h4.text-center Canales #[i On line] (digitales)
+                  h4.text-center Canales #[i Online] (digitales)
                   .caja-3_p
                     p.mb-0.text-center Medios digitales como páginas web, redes sociales y correo electrónico. Permiten una segmentación muy precisa y una interacción directa con el público.
           p.mb-0 La estrategia de comunicación debe seleccionar y combinar los canales de acuerdo con el público objetivo (#[i target]) al cual se dirige el mensaje. Una elección inadecuada puede reducir su alcance, comprensión y efectividad.
