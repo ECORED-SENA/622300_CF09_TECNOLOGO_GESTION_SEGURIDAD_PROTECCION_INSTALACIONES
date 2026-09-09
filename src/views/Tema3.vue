@@ -29,7 +29,7 @@
             span Factores del triángulo del servicio
           figure(data-aos="zoom-in")
             img(src='@/assets/curso/temas/t3/img3.svg', alt='El triángulo del servicio sitúa al cliente en el centro y articula tres componentes esenciales: estrategia de servicio, personal y sistemas amigables. Su integración orienta la organización hacia una atención coherente, eficiente y enfocada en satisfacer sus necesidades y expectativas.').m-auto
-      p.mb-5 Los factores del triángulo del servicio, se detallan a continuación:
+      p.mb-5 Los factores del triángulo del servicio se detallan a continuación:
       TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
         .py-3.py-md-4(titulo="Estrategia de servicio")
           .row.justify-content-center.align-items-center
@@ -156,7 +156,7 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t3/img17.jpg')})` }")
         .bloque-texto-g__texto.p-4
-          p La gestión de relaciones con el cliente (CRM, por sus siglas en inglés) permite centralizar y administrar la información generada durante las interacciones con los usuarios. Esta herramienta facilita el conocimiento estratégico de sus características y preferencias, así como el manejo eficiente de sus datos dentro de la organización (Montoya y Boyero, 2013). Un CRM no se limita al uso de un software; también constituye una estrategia de negocio apoyada en la tecnología para fortalecer la relación con los clientes.
+          p La gestión de relaciones con el cliente (CRM, por sus siglas en inglés) permite centralizar y administrar la información generada durante las interacciones con los usuarios. Esta herramienta facilita el conocimiento estratégico de sus características y preferencias, así como el manejo eficiente de sus datos dentro de la organización (Montoya y Boyero, 2013). Un CRM no se limita al uso de un <i>software</i>; también constituye una estrategia de negocio apoyada en la tecnología para fortalecer la relación con los clientes.
       p.mb-5 Sus principales aplicaciones en la gestión del servicio y la seguridad pueden organizarse de la siguiente manera:
       .bg-slider.mb-5
         .px-5

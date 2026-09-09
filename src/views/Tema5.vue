@@ -21,7 +21,7 @@
             img(src='@/assets/curso/temas/t5/img1.png', alt='' style="width: 500px").m-auto
       #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 5.1 Características de un servicio de calidad
-      p.mb-5 La calidad del servicio es multidimensional y depende de diferentes aspectos valorados por el cliente. El modelo Servqual establece cinco dimensiones que permiten analizar la experiencia y determinar el nivel de cumplimiento del servicio prestado (Parasuraman et al., 1988). La evaluación de la calidad del servicio comprende las siguientes dimensiones:
+      p.mb-5 La calidad del servicio es multidimensional y depende de diferentes aspectos valorados por el cliente. El modelo SERVQUAL establece cinco dimensiones que permiten analizar la experiencia y determinar el nivel de cumplimiento del servicio prestado (Parasuraman et al., 1988). La evaluación de la calidad del servicio comprende las siguientes dimensiones:
       .row.align-items-center.mb-5
         .col-xl-auto(data-aos="fade-right")
           figure.d-none.d-xl-block

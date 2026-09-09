@@ -56,7 +56,7 @@
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.2 Relación entre atención al cliente y protección de instalaciones
-      p.mb-5 La atención al cliente y la protección de instalaciones se articulan mediante interacciones que facilitan el cumplimiento de las normas y la identificación oportuna de riesgos. Esta relación se concreta en prácticas que fortalecen simultáneamente la experiencia del usuario y los procedimientos de seguridad; tales como:
+      p.mb-5 La atención al cliente y la protección de instalaciones se articulan mediante interacciones que facilitan el cumplimiento de las normas y la identificación oportuna de riesgos. Esta relación se concreta en prácticas que fortalecen simultáneamente la experiencia del usuario y los procedimientos de seguridad, tales como:
       .row.align-items-center.mb-0
         .col-xl-auto(data-aos="fade-right")
           figure.d-none.d-xl-block

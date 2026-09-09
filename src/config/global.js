@@ -290,7 +290,7 @@ export default {
         'conjunto de normas, instrucciones y recomendaciones que orientan la actuación del personal ante situaciones determinadas.',
     },
     {
-      termino: 'Servqual',
+      termino: 'SERVQUAL',
       significado:
         'modelo empleado para valorar la calidad del servicio mediante las dimensiones de tangibilidad, fiabilidad, capacidad de respuesta, seguridad y empatía.',
     },
@@ -504,6 +504,12 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
         {
           nombre: 'Ricardo Oliveros Zambrano ',
           cargo: 'Validador de recursos educativos digitales',

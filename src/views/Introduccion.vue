@@ -26,7 +26,7 @@
             .col-xl
               p.mb-0 Este componente formativo aborda los momentos de verdad y el ciclo del servicio como referentes para reconocer la experiencia del usuario. Además, integra estrategias de atención presencial y tecnológica, sistemas de servicio, gestión de relaciones con clientes y organización del tiempo. También desarrolla principios para planificar eventos, seleccionar canales de comunicación, aplicar normas de netiqueta y actuar con claridad en contextos de seguridad.
           .caja-2(data-aos="fade-left")
-            p.mb-0 Finalmente, incorpora las dimensiones del modelo Servqual, el uso de las PQRSF, el tratamiento de quejas y la respuesta ante contingencias. Estos conocimientos permiten que el personal actúe con empatía, precisión, oportunidad y profesionalismo, mientras articula la satisfacción del cliente con los objetivos, la mejora continua, la reputación organizacional y la seguridad en entornos de atención y servicio.
+            p.mb-0 Finalmente, incorpora las dimensiones del modelo SERVQUAL, el uso de las PQRSF, el tratamiento de quejas y la respuesta ante contingencias. Estos conocimientos permiten que el personal actúe con empatía, precisión, oportunidad y profesionalismo, mientras articula la satisfacción del cliente con los objetivos, la mejora continua, la reputación organizacional y la seguridad en entornos de atención y servicio.
 
 </template>
 

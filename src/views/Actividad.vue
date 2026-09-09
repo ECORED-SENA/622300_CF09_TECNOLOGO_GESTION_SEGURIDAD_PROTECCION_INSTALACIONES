@@ -549,7 +549,7 @@ export default {
         {
           id: 16,
           texto:
-            'Según el modelo Servqual, ¿qué significa fiabilidad en el servicio?',
+            'Según el modelo SERVQUAL, ¿qué significa fiabilidad en el servicio?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [

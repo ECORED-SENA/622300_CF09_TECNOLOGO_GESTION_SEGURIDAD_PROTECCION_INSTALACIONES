@@ -196,7 +196,7 @@
         .col-xl.mb-4.mb-lg-0
           p La atención cara a cara constituye un momento de verdad que influye directamente en la percepción del cliente. Su efectividad requiere cortesía, disposición ante las necesidades y un trato personalizado que permita valorar a cada persona de manera individual (Leppard y Molyneux, 2000).
           .caja-2.color-2(data-aos="fade-right")
-            p.mb-0 El modelo Servqual complementa este enfoque mediante dos dimensiones especialmente relevantes para la interacción presencial (Parasuraman et al., 1988).
+            p.mb-0 El modelo SERVQUAL complementa este enfoque mediante dos dimensiones especialmente relevantes para la interacción presencial (Parasuraman et al., 1988).
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/t2/img22.png', alt='' style="width: 500px").m-auto
@@ -264,7 +264,7 @@
                 img(src='@/assets/curso/temas/t2/img28.png', alt="" ).m-auto
             .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
               h4.txt--purpura.mb-4 Accesibilidad y usabilidad
-              p.mb-0 Disponer plataformas comprensibles y funcionales que faciliten el acceso, la navegación y la realización de trámites por parte de diferentes usuarios.
+              p.mb-0 Disponer de plataformas comprensibles y funcionales que faciliten el acceso, la navegación y la realización de trámites por parte de diferentes usuarios.
       p.mb-0 La aplicación de estas estrategias favorece una atención digital confiable, reduce las barreras de acceso y fortalece la relación entre la organización y sus clientes.
 
 </template>
