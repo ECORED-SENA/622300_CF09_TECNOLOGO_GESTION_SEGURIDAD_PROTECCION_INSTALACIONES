@@ -90,7 +90,7 @@
       p.mb-5 El siguiente video amplía la importancia de las PQRSF y su contribución a la fidelización, la evaluación del servicio y la mejora continua.
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/7MnL_Ma7e-M?si=eGeYM7wx_l_DmpGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Atención PQR
       Separador
       #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -263,7 +263,7 @@
 </template>
 
 <script>
-import audio1 from '@/assets/curso/temas/t5/audios/audio-ej.mp3'
+import audio1 from '@/assets/curso/podcast/quejas.mp3'
 export default {
   name: 'Tema5',
   data: () => ({

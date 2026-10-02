@@ -23,7 +23,7 @@
       p.mb-5 El siguiente video profundiza en las clases de momentos de verdad y su incidencia en las decisiones y la satisfacción del cliente:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/u-HLA8aoKPQ?si=JujgQkv0WhdJaGj2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Momentos de verdad
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t2/img3.png')
@@ -187,7 +187,7 @@
       p.mb-5 El siguiente video amplía la función de los protocolos y su adaptación a las características del cliente y a las transformaciones tecnológicas.
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/ewKkiwsSkkA?si=ZsihPq_-PwdK3xqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Protocolos de servicios al cliente
       Separador
       #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
